@@ -1,0 +1,2 @@
+2022-01-10 20:30:27.0400 ERROR String should only contain a number     at StringParser.Parser.ParseStringToInteger(String str) in C:\Users\Alex\source\src\kurlina\src\M05\StringParser\Parser.cs:line 58
+2022-01-10 21:30:54.7656 ERROR String should only contain a number     at StringParser.Parser.ParseStringToInteger(String str) in C:\Users\Alex\source\src\kurlina\src\M05\StringParser\Parser.cs:line 58

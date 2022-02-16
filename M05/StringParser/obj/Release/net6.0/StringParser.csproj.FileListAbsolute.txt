@@ -1,0 +1,12 @@
+C:\Users\Alex\source\src\kurlina\src\M05\StringParser\bin\Release\net6.0\StringParser.deps.json
+C:\Users\Alex\source\src\kurlina\src\M05\StringParser\bin\Release\net6.0\StringParser.dll
+C:\Users\Alex\source\src\kurlina\src\M05\StringParser\bin\Release\net6.0\ref\StringParser.dll
+C:\Users\Alex\source\src\kurlina\src\M05\StringParser\bin\Release\net6.0\StringParser.pdb
+C:\Users\Alex\source\src\kurlina\src\M05\StringParser\obj\Release\net6.0\StringParser.csproj.AssemblyReference.cache
+C:\Users\Alex\source\src\kurlina\src\M05\StringParser\obj\Release\net6.0\StringParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\src\kurlina\src\M05\StringParser\obj\Release\net6.0\StringParser.AssemblyInfoInputs.cache
+C:\Users\Alex\source\src\kurlina\src\M05\StringParser\obj\Release\net6.0\StringParser.AssemblyInfo.cs
+C:\Users\Alex\source\src\kurlina\src\M05\StringParser\obj\Release\net6.0\StringParser.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\src\kurlina\src\M05\StringParser\obj\Release\net6.0\StringParser.dll
+C:\Users\Alex\source\src\kurlina\src\M05\StringParser\obj\Release\net6.0\ref\StringParser.dll
+C:\Users\Alex\source\src\kurlina\src\M05\StringParser\obj\Release\net6.0\StringParser.pdb

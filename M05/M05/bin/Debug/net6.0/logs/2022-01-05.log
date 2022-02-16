@@ -1,0 +1,59 @@
+2022-01-05 13:57:59.8343 FATAL hello nlog
+2022-01-05 13:57:59.8825 ERROR String is null
+2022-01-05 14:04:28.3546 FATAL hello nlog
+2022-01-05 14:04:28.4328 ERROR String is null
+2022-01-05 14:13:45.9478 FATAL hello nlog
+2022-01-05 14:13:45.9478 FATAL hello nlog
+2022-01-05 14:13:46.0142 ERROR String is null
+2022-01-05 14:13:46.0142 ERROR String is null
+2022-01-05 14:14:40.8656 FATAL hello nlog
+2022-01-05 14:14:40.9175 ERROR String is null
+2022-01-05 14:15:23.5651 FATAL hello nlog
+2022-01-05 14:15:23.6256 ERROR String is null
+2022-01-05 14:16:41.9616 FATAL hello nlog
+2022-01-05 14:16:42.0274 ERROR String is null
+2022-01-05 14:22:58.8332 FATAL hello nlog
+2022-01-05 14:22:58.9243 ERROR String is null
+2022-01-05 14:56:46.3859 FATAL hello nlog
+2022-01-05 14:56:46.4602 ERROR 1234
+2022-01-05 15:30:03.5317 FATAL hello nlog
+2022-01-05 15:30:05.4004 ERROR 
+2022-01-05 15:32:22.1123 FATAL hello nlog
+2022-01-05 15:32:23.5828 ERROR 
+2022-01-05 15:36:17.9762 FATAL hello nlog
+2022-01-05 15:36:21.9246 ERROR 
+2022-01-05 15:41:27.7691 FATAL hello nlog
+2022-01-05 15:41:29.0234 ERROR 
+2022-01-05 15:41:32.9555 ERROR g
+2022-01-05 15:43:35.4871 ERROR 
+2022-01-05 15:43:39.5077 ERROR 9
+2022-01-05 15:51:26.6390 ERROR string is null or empty
+2022-01-05 15:51:53.1582 ERROR string is null or empty
+2022-01-05 15:51:59.1966 ERROR string is null or empty
+2022-01-05 15:53:08.5106 ERROR string is null or empty
+2022-01-05 15:53:31.2367 ERROR string is null or empty
+2022-01-05 15:53:41.6220 ERROR string is null or empty
+2022-01-05 15:55:14.7906 ERROR string is null or empty
+2022-01-05 15:55:48.2988 ERROR string is null or empty
+2022-01-05 16:01:54.6813 ERROR string is null or empty or contains only whitespaces
+2022-01-05 16:49:36.9014 ERROR String should be equals or less than 10 characters
+2022-01-05 18:29:53.1531 ERROR String should not be greater than max int value
+2022-01-05 18:42:53.5240 ERROR String should only contain a number
+2022-01-05 18:43:02.9759 ERROR String should only contain a number
+2022-01-05 18:43:11.8334 ERROR String should only contain a number
+2022-01-05 18:43:18.0742 ERROR String should only contain a number
+2022-01-05 19:00:09.5052 ERROR Stopped program because of exception
+2022-01-05 19:00:42.2831 ERROR Stopped program because of exception
+2022-01-05 19:02:45.3264 ERROR Stopped program because of exception
+2022-01-05 19:13:14.4254 ERROR String should only contain a number
+2022-01-05 19:14:29.3302 ERROR String should only contain a number
+2022-01-05 19:32:06.2636 ERROR Value cannot be null. (Parameter 'str')
+2022-01-05 19:39:51.5633 ERROR    at StringParser.Parser.ParseStringToInteger(String str) in C:\Users\Alex\source\src\kurlina\src\M05\StringParser\Parser.cs:line 48
+2022-01-05 19:41:15.2073 ERROR    at StringParser.Parser.ParseStringToInteger(String str) in C:\Users\Alex\source\src\kurlina\src\M05\StringParser\Parser.cs:line 37
+2022-01-05 19:45:27.3689 ERROR    at StringParser.Parser.ParseStringToInteger(String str) in C:\Users\Alex\source\src\kurlina\src\M05\StringParser\Parser.cs:line 59
+2022-01-05 19:50:38.5946 ERROR    at StringParser.Parser.ParseStringToInteger(String str) in C:\Users\Alex\source\src\kurlina\src\M05\StringParser\Parser.cs:line 59
+2022-01-05 19:54:37.1132 ERROR    at StringParser.Parser.ParseStringToInteger(String str) in C:\Users\Alex\source\src\kurlina\src\M05\StringParser\Parser.cs:line 59
+2022-01-05 19:56:56.0583 ERROR    at StringParser.Parser.ParseStringToInteger(String str) in C:\Users\Alex\source\src\kurlina\src\M05\StringParser\Parser.cs:line 81 String should not be greater than max int value
+2022-01-05 19:59:35.0105 ERROR String is null or empty or contains only whitespaces     at StringParser.Parser.ParseStringToInteger(String str) in C:\Users\Alex\source\src\kurlina\src\M05\StringParser\Parser.cs:line 37
+2022-01-05 21:07:12.0986 ERROR String should be equals or less than 10 characters     at StringParser.Parser.ParseStringToInteger(String str) in C:\Users\Alex\source\src\kurlina\src\M05\StringParser\Parser.cs:line 46
+2022-01-05 21:08:40.2051 ERROR String should only contain a number     at StringParser.Parser.ParseStringToInteger(String str) in C:\Users\Alex\source\src\kurlina\src\M05\StringParser\Parser.cs:line 58

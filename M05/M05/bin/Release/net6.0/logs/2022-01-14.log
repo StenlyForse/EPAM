@@ -1,0 +1,7 @@
+2022-01-14 13:55:17.5860 ERROR String should be equals or less than 10 characters     at StringParser.Parser.ParseStringToInteger(String str) in C:\Users\Alex\source\src\kurlina\src\M05\StringParser\Parser.cs:line 46
+2022-01-14 14:07:38.1058 ERROR String should be equals or less than 10 characters     at StringParser.Parser.ParseStringToInteger(String str) in C:\Users\Alex\source\src\kurlina\src\M05\StringParser\Parser.cs:line 46
+2022-01-14 14:07:52.7108 ERROR String should only contain a number     at StringParser.Parser.ParseStringToInteger(String str) in C:\Users\Alex\source\src\kurlina\src\M05\StringParser\Parser.cs:line 58
+2022-01-14 14:08:21.4627 ERROR String should only contain a number     at StringParser.Parser.ParseStringToInteger(String str) in C:\Users\Alex\source\src\kurlina\src\M05\StringParser\Parser.cs:line 58
+2022-01-14 14:15:51.2939 ERROR String should only contain a number     at StringParser.Parser.ParseStringToInteger(String str) in C:\Users\Alex\source\src\kurlina\src\M05\StringParser\Parser.cs:line 58
+2022-01-14 14:50:05.5007 ERROR String is null or empty or contains only whitespaces
+2022-01-14 14:52:32.5009 ERROR String should be equals or less than 10 characters
