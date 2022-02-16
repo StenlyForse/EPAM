@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "raGhfD8NxG3QnOoClAIZ6bOhV35RgmoKRhMGCr5r6yeShrNMdw7Jiv5/MQuALD47hH8sWylW5QVMkFptYt7FlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\src\\kurlina\\src\\M02\\Performance\\Performance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.406\\stylecop.analyzers.1.2.0-beta.406.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.406\\stylecop.analyzers.unstable.1.2.0.406.nupkg.sha512"
+  ],
+  "logs": []
+}
