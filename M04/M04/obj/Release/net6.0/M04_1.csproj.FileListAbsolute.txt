@@ -1,0 +1,12 @@
+C:\Users\Alex\source\src\kurlina\src\M04\M04\bin\Release\net6.0\M04_1.deps.json
+C:\Users\Alex\source\src\kurlina\src\M04\M04\bin\Release\net6.0\M04_1.dll
+C:\Users\Alex\source\src\kurlina\src\M04\M04\bin\Release\net6.0\ref\M04_1.dll
+C:\Users\Alex\source\src\kurlina\src\M04\M04\bin\Release\net6.0\M04_1.pdb
+C:\Users\Alex\source\src\kurlina\src\M04\M04\obj\Release\net6.0\M04_1.csproj.AssemblyReference.cache
+C:\Users\Alex\source\src\kurlina\src\M04\M04\obj\Release\net6.0\M04_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\src\kurlina\src\M04\M04\obj\Release\net6.0\M04_1.AssemblyInfoInputs.cache
+C:\Users\Alex\source\src\kurlina\src\M04\M04\obj\Release\net6.0\M04_1.AssemblyInfo.cs
+C:\Users\Alex\source\src\kurlina\src\M04\M04\obj\Release\net6.0\M04_1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\src\kurlina\src\M04\M04\obj\Release\net6.0\M04_1.dll
+C:\Users\Alex\source\src\kurlina\src\M04\M04\obj\Release\net6.0\ref\M04_1.dll
+C:\Users\Alex\source\src\kurlina\src\M04\M04\obj\Release\net6.0\M04_1.pdb

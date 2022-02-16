@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zZ9YHFh7Xma1sxAP9JHIgpKlbfa2VoyqV8v5qs8PSTmDw8thCFit3ohcSaxhzkTgrggWQVVyWjJiLGAZ3L1fgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\src\\kurlina\\src\\M04\\Game\\M04_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.406\\stylecop.analyzers.1.2.0-beta.406.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.406\\stylecop.analyzers.unstable.1.2.0.406.nupkg.sha512"
+  ],
+  "logs": []
+}
