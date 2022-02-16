@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KB737zVjva4AqMLVljEPkhyCQ4zWZ9K49Aj3L13L7rNcfW2lAN5V4Cet3ocY+qGbw3Zvg1ulr+DrSva+KHxlWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\src\\kurlina\\src\\M04\\M04\\M04_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.406\\stylecop.analyzers.1.2.0-beta.406.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.406\\stylecop.analyzers.unstable.1.2.0.406.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
