@@ -1,0 +1,4 @@
+C:\Users\Alex\source\src\kurlina\M01\RectangleHelper\bin\Debug\netstandard2.0\win-x64\publish\RectangleHelper.dll
+C:\Users\Alex\source\src\kurlina\M01\RectangleHelper\bin\Debug\netstandard2.0\win-x64\publish\RectangleHelper.pdb
+C:\Users\Alex\source\src\kurlina\M01\RectangleHelper\bin\Debug\netstandard2.0\win-x64\publish\System.ComponentModel.Annotations.dll
+C:\Users\Alex\source\src\kurlina\M01\RectangleHelper\bin\Debug\netstandard2.0\win-x64\publish\RectangleHelper.deps.json

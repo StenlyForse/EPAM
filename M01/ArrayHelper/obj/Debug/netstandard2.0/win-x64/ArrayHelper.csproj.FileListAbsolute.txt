@@ -1,0 +1,9 @@
+C:\Users\Alex\source\src\kurlina\M01\ArrayHelper\bin\Debug\netstandard2.0\win-x64\ArrayHelper.deps.json
+C:\Users\Alex\source\src\kurlina\M01\ArrayHelper\bin\Debug\netstandard2.0\win-x64\ArrayHelper.dll
+C:\Users\Alex\source\src\kurlina\M01\ArrayHelper\bin\Debug\netstandard2.0\win-x64\ArrayHelper.pdb
+C:\Users\Alex\source\src\kurlina\M01\ArrayHelper\obj\Debug\netstandard2.0\win-x64\ArrayHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\src\kurlina\M01\ArrayHelper\obj\Debug\netstandard2.0\win-x64\ArrayHelper.AssemblyInfoInputs.cache
+C:\Users\Alex\source\src\kurlina\M01\ArrayHelper\obj\Debug\netstandard2.0\win-x64\ArrayHelper.AssemblyInfo.cs
+C:\Users\Alex\source\src\kurlina\M01\ArrayHelper\obj\Debug\netstandard2.0\win-x64\ArrayHelper.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\src\kurlina\M01\ArrayHelper\obj\Debug\netstandard2.0\win-x64\ArrayHelper.dll
+C:\Users\Alex\source\src\kurlina\M01\ArrayHelper\obj\Debug\netstandard2.0\win-x64\ArrayHelper.pdb

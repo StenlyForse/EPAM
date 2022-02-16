@@ -1,0 +1,9 @@
+C:\Users\Alex\source\src\kurlina\M01\M01\bin\Debug\net5.0\publish\M01.exe
+C:\Users\Alex\source\src\kurlina\M01\M01\bin\Debug\net5.0\publish\M01.dll
+C:\Users\Alex\source\src\kurlina\M01\M01\bin\Debug\net5.0\publish\M01.runtimeconfig.json
+C:\Users\Alex\source\src\kurlina\M01\M01\bin\Debug\net5.0\publish\M01.pdb
+C:\Users\Alex\source\src\kurlina\M01\M01\bin\Debug\net5.0\publish\ArrayHelper.dll
+C:\Users\Alex\source\src\kurlina\M01\M01\bin\Debug\net5.0\publish\RectangleHelper.dll
+C:\Users\Alex\source\src\kurlina\M01\M01\bin\Debug\net5.0\publish\ArrayHelper.pdb
+C:\Users\Alex\source\src\kurlina\M01\M01\bin\Debug\net5.0\publish\RectangleHelper.pdb
+C:\Users\Alex\source\src\kurlina\M01\M01\bin\Debug\net5.0\publish\M01.deps.json

@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0/win-x86",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {},
+    ".NETCoreApp,Version=v5.0/win-x86": {
+      "M01/1.0.0": {
+        "dependencies": {
+          "ArrayHelper": "1.0.0",
+          "Microsoft.Net.Compilers.Toolset": "4.0.1",
+          "RectangleHelper": "1.0.0",
+          "System.ComponentModel.Annotations": "5.0.0"
+        },
+        "runtime": {
+          "M01.dll": {}
+        }
+      },
+      "Microsoft.Net.Compilers.Toolset/4.0.1": {},
+      "System.ComponentModel.Annotations/5.0.0": {},
+      "ArrayHelper/1.0.0": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "5.0.0"
+        },
+        "runtime": {
+          "ArrayHelper.dll": {}
+        }
+      },
+      "RectangleHelper/1.0.0": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "5.0.0"
+        },
+        "runtime": {
+          "RectangleHelper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Net.Compilers.Toolset/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DVIW1CUIPq5V4tFvqbjKvf0d9djECceVCNDspGx/kPjKyJRXJ6mjYMcel9fxaECybbjYwn8Q1/tIwjZvhZo0NQ==",
+      "path": "microsoft.net.compilers.toolset/4.0.1",
+      "hashPath": "microsoft.net.compilers.toolset.4.0.1.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dMkqfy2el8A8/I76n2Hi1oBFEbG1SfxD2l5nhwXV3XjlnOmwxJlQbYpJH4W51odnU9sARCSAgv7S3CyAFMkpYg==",
+      "path": "system.componentmodel.annotations/5.0.0",
+      "hashPath": "system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    },
+    "ArrayHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RectangleHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
