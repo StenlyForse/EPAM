@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9aba5b01-4251-4ac5-a6fa-d809c7e351e3": {
+      "ProjectGuid": "9aba5b01-4251-4ac5-a6fa-d809c7e351e3",
+      "DisplayName": "M09",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "67ca57af-17a8-4e76-9e29-912d03fc8e48": {
+      "ProjectGuid": "67ca57af-17a8-4e76-9e29-912d03fc8e48",
+      "DisplayName": "M09.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

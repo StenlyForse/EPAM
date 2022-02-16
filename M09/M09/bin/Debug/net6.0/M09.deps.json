@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "M09/1.0.0": {
+        "dependencies": {
+          "StyleCop.Analyzers": "1.2.0-beta.406",
+          "System.Linq.Dynamic.Core": "1.2.15"
+        },
+        "runtime": {
+          "M09.dll": {}
+        }
+      },
+      "StyleCop.Analyzers/1.2.0-beta.406": {
+        "dependencies": {
+          "StyleCop.Analyzers.Unstable": "1.2.0.406"
+        }
+      },
+      "StyleCop.Analyzers.Unstable/1.2.0.406": {},
+      "System.Linq.Dynamic.Core/1.2.15": {
+        "runtime": {
+          "lib/net6.0/System.Linq.Dynamic.Core.dll": {
+            "assemblyVersion": "1.2.15.0",
+            "fileVersion": "1.2.15.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M09/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StyleCop.Analyzers/1.2.0-beta.406": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YbsYoczQPZyz+4nmQ7bBiU9uQkk7Q2KUizQWEv01S4/ImCdJFiHvJfm8HAINNS0cvSLOA7xM9Y+KWQ2FOYjgkA==",
+      "path": "stylecop.analyzers/1.2.0-beta.406",
+      "hashPath": "stylecop.analyzers.1.2.0-beta.406.nupkg.sha512"
+    },
+    "StyleCop.Analyzers.Unstable/1.2.0.406": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FclNdBR81ynIo9l1QNlo+l0I/PaFIYaPQPlMram8XVIMh6G6G43KTa1aCxfwTj13uKlAJS/LhLy6KjOPOeAU4w==",
+      "path": "stylecop.analyzers.unstable/1.2.0.406",
+      "hashPath": "stylecop.analyzers.unstable.1.2.0.406.nupkg.sha512"
+    },
+    "System.Linq.Dynamic.Core/1.2.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-46PeyhpG36FWBFShRlmumMWGqdUd8SA+NMd/DwnGzkHY3SzFPAILndgViRzcUtsHhqGBrMOI0aqhpm0u9JAitg==",
+      "path": "system.linq.dynamic.core/1.2.15",
+      "hashPath": "system.linq.dynamic.core.1.2.15.nupkg.sha512"
+    }
+  }
+}

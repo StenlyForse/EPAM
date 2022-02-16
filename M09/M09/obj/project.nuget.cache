@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4KjQfx92aXtpHy5MyvOFHj5uBTeboO6auTPmdVfVWq3T3P0oE3IumfDb+4o/kktu4H7fUMbkNC2elIB40vHb3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\src\\kurlina\\src\\M09\\M09\\M09.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.406\\stylecop.analyzers.1.2.0-beta.406.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.406\\stylecop.analyzers.unstable.1.2.0.406.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\system.linq.dynamic.core\\1.2.15\\system.linq.dynamic.core.1.2.15.nupkg.sha512"
+  ],
+  "logs": []
+}
