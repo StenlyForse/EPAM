@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iUwo3sVeyCHx0joHnBgo719M+LHWeFvannPg5HS5JzHX6B5Oqhc7vnRh2/IS3kyL7TwlPuVNrxCCYwHHRyY25g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\src\\kurlina\\src\\M07\\MatrixSorter\\MatrixSorter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.406\\stylecop.analyzers.1.2.0-beta.406.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.406\\stylecop.analyzers.unstable.1.2.0.406.nupkg.sha512"
+  ],
+  "logs": []
+}

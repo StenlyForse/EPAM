@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vu889BgQBUMJjU3kTGwPBbMFDDO3t9PQWhWZvhy9hgh8ks8J6hF6Zm+/FyxZFlMoqenJoFXfMpirawzwRI/BbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\src\\kurlina\\src\\M07\\Countdown\\Countdown.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.406\\stylecop.analyzers.1.2.0-beta.406.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.406\\stylecop.analyzers.unstable.1.2.0.406.nupkg.sha512"
+  ],
+  "logs": []
+}
