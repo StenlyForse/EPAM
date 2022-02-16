@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "841b5917-26ba-4aee-970a-5d018d5c9948": {
+      "ProjectGuid": "841b5917-26ba-4aee-970a-5d018d5c9948",
+      "DisplayName": "M08",
+      "ColorIndex": 0
+    },
+    "ed051632-70b7-4d75-8d86-c62ccfae65f2": {
+      "ProjectGuid": "ed051632-70b7-4d75-8d86-c62ccfae65f2",
+      "DisplayName": "ConsoleApp",
+      "ColorIndex": 1
+    },
+    "4bc2df93-6840-4e42-a0c8-1ff44d2ff6e3": {
+      "ProjectGuid": "4bc2df93-6840-4e42-a0c8-1ff44d2ff6e3",
+      "DisplayName": "M08.Tests",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

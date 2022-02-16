@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kTF9AkUoHMN2Se18y42tgwzY99FkfQ/tztzp4kXmFvSZrIgNXHMwXNXSi9gomn1AxUkoldKnmo0X7sE6FVAvkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\src\\kurlina\\src\\M08\\M08\\M08.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.406\\stylecop.analyzers.1.2.0-beta.406.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.406\\stylecop.analyzers.unstable.1.2.0.406.nupkg.sha512"
+  ],
+  "logs": []
+}
